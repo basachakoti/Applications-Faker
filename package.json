@@ -1,0 +1,25 @@
+{
+  "name": "applications-faker",
+  "version": "1.0.0",
+  "description": "faker to generate data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/basachakoti/Applications-Faker.git"
+  },
+  "keywords": [
+    "faker"
+  ],
+  "author": "Basavaprabhu Chakoti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basachakoti/Applications-Faker/issues"
+  },
+  "homepage": "https://github.com/basachakoti/Applications-Faker#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0"
+  }
+}
